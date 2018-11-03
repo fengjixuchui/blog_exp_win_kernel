@@ -1,0 +1,12 @@
+﻿  main.cpp
+main.cpp(56): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'unsigned int'
+main.cpp(56): warning C4302: 'type cast': truncation from 'BYTE *' to 'unsigned int'
+main.cpp(56): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'unsigned int'
+main.cpp(56): warning C4302: 'type cast': truncation from 'HMODULE' to 'unsigned int'
+  Generating code
+  1 of 25 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  pool-fengshui.vcxproj -> C:\Users\wjllz\Documents\Visual Studio 2015\Projects\pool-fengshui\x64\Release\pool-fengshui.exe
+  pool-fengshui.vcxproj -> C:\Users\wjllz\Documents\Visual Studio 2015\Projects\pool-fengshui\x64\Release\pool-fengshui.pdb (Full PDB)
